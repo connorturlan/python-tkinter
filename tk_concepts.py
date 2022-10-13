@@ -41,3 +41,5 @@ def print_hierarchy(w, depth=0):
 
 
 print_hierarchy(root)
+
+### geometry management.
